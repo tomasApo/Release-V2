@@ -1,6 +1,6 @@
 #![no_std]
 #![no_main]
-
+//is it worth fixing the start vscode bug?
 use defmt_rtt as _;
 use hal::pwm::tim3;
 use panic_probe as _;
