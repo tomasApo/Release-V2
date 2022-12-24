@@ -1,6 +1,0 @@
-cargo:rustc-link-lib=static=cortex-m
-cargo:rustc-link-search=/home/tomasinha/Documents/STM32_projects/stm32f3-mfrc522/target/thumbv7em-none-eabihf/debug/build/cortex-m-6dd3981c30f26911/out
-cargo:rustc-cfg=cortex_m
-cargo:rustc-cfg=armv7m
-cargo:rustc-cfg=armv7em
-cargo:rustc-cfg=has_fpu

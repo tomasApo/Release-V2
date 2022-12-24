@@ -1,2 +1,0 @@
-cargo:rustc-link-search=/home/tomasinha/Documents/Release-V2/Code/target/thumbv7em-none-eabihf/debug/build/stm32f3-mfrc522-ca634c2de34f3c22/out
-cargo:rerun-if-changed=memory.x
